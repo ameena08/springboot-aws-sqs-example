@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: "AKIAUXFBZBUKKWQWJZGU"
+      secret-key: "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"
+    end-point:
+      uri: "https://sqs.ap-south-1.amazonaws.com/324609314068/javafullstack-queue"
